@@ -8,3 +8,6 @@
   934  git status
   963  git pull
   969  git log
+       git checkout test-branches
+       #edit branches
+       git merge master
